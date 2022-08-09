@@ -11,14 +11,10 @@ header:
 
 ## Journal Articles
 
-- **Bayesian Optimization via Barrier Functions** T. Pourmohamad and H.K.H. Lee. Submitted. [[link](https://www.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-SOE-20-02.pdf)]
-
-- **The Statistical Filter Approach to Constrained Optimization** (2019). T. Pourmohamad and H.K.H. Lee. Accepted to Technometrics. [[link](https://doi.org/10.1080/00401706.2019.1638304)]
-
+- **The Utility of Novel Biomarkers in Mice for Drug Development Studies**. A.O. Adedeji, T. Pourmohamad, Y.-Z. Gu, J. Kanerva, Y. Chen, E. Atabakhsh, M. Tackett, F. Chen, B. Bhatt, T. Gury, O. Dorchies, M. Sonee, M. Morgan, J. Burkey, J.-C. Gautier, J. McDuffie. International Journal of Toxicology. 40(1):15-25.[[link](https://journals.sagepub.com/doi/10.1177/1091581820970498)]
+- **The Statistical Filter Approach to Constrained Optimization** (2020). T. Pourmohamad and H.K.H. Lee. Technometrics. 62(3):303-312 [[link](https://doi.org/10.1080/00401706.2019.1638304)]
 - **Phase I Study of the Indoleamine 2,3-Dioxygenase 1 (IDO1) Inhibitor Navoximod (GCD-0919) Administered with PD-l1 Inhibitor (Atezolizumab) in Adavnced Solid Tumors** (2019).
 K.H. Jung, P.M. LoRusso, H.A. Burris, M.S. Gordon, Y. Bang, M.D. Hellman, A. Cervantes, M. Ochoa de Olza, A. Marabelle, F.S. Hodi, M. Ahn, L.A. Emens, F. Barlesi, O. Hamid, E. Calvo, D.F. McDermott, H. Soliman, I. Rhee, R. Lin, T. Pourmohamad, J. Suchomel, A. Tsuhako, K.M. Morrissey, S. Mahrus, R. Morley, A. Pirzkall, S.L. Davis. Clinical Cancer Research. [[link](http://clincancerres.aacrjournals.org/content/early/2019/02/15/1078-0432.CCR-18-2740.abstract?casa_token=LiE4CMwwEMgAAAAA:9klg5HYecBTePpF8btXVJyJjbdTcHV8aNahPBx_muABv9C9mBJETT6Zm7AFeZ2LdQGg3px39GhxJXLhN0A)]
-
-- **The Statistical Filter Approach to Constrained Optimization** (2020). T. Pourmohamad and H.K.H. Lee. Technometrics. 62(3):303-312 [[link](https://doi.org/10.1080/00401706.2019.1638304)]
 - **Investigating the Value of Urine Volume, Creatinine, and Cystatin C for Urinary Biomarkers Normalization
 for Drug Development Studies** (2019).
 A.O. Adedeji, T. Pourmohamad, Y. Chen, J. Burkey, C.J. Bettes, S.J. Bickerton, M. Sonee, J.E. McDuffie. International Journal of Toxicology. 38(1):12-22 [[link](https://journals.sagepub.com/doi/abs/10.1177/1091581818819791?casa_token=zWCDgta3dP4AAAAA:Hpp7e-GXLGP1-tYeZ1sey8BXkZfGABn14SZAi9raoT9lIHMuG43ishE7bYgB8oATrz12EcrkWUAmwA)]
