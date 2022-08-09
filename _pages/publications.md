@@ -7,7 +7,7 @@ header:
 
 ## Books
 - **Case Studies in Bayesian Methods for CMC Applications** P. Faya and T. Pourmohamad. To appear in CRC Press.
-- **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link]([http://clincancerres.aacrjournals.org/content/early/2019/02/15/1078-0432.CCR-18-2740.abstract?casa_token=LiE4CMwwEMgAAAAA:9klg5HYecBTePpF8btXVJyJjbdTcHV8aNahPBx_muABv9C9mBJETT6Zm7AFeZ2LdQGg3px39GhxJXLhN0A](https://link.springer.com/book/10.1007/978-3-030-82458-7))]
+- **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link](https://link.springer.com/book/10.1007/978-3-030-82458-7)]
 
 ## Journal Articles
 
@@ -45,3 +45,6 @@ K.J. Henderson, S.D. Schrum, M. James, N. Quinnine, A. Bharatha, K.G. Terbrugge,
 - **Cerebellar Arteriovenous Malformations: Anatomical Subtypes, Surgical Results, and Increased Predictive Accuracy of the
 Supplementary Grading System** (2012).
 A. Rodriguez-Hernandez, H. Kim, T. Pourmohamad, W.L. Young, and M.T. Lawton. *Neurosurgery*. 71(6):1111-24 [[link](https://www.ncbi.nlm.nih.gov/pubmed/22986595)]
+
+## Reviews
+- **Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences** (2021). T. Pourmohamad. *Technometrics*. (62)3:303-312. [[link](https://www.tandfonline.com/doi/full/10.1080/00401706.2020.1865008)]
