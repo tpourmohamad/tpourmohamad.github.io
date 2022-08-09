@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
-url: https://grantmcdermott.com
+title: Tony Pourmohamad
+url: https://tpourmohamad.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
-# repository: grantmcdermott/grantmcdermott.github.io
+# repository: tpourmohamad/tpourmohamad.github.io
 github: [metadata]
-email: grantmcd@uoregon.edu
+email: tpourmoh@ucsc.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Tony Pourmohamad's personal website.
+#twitter_username: 
+github_username: tpourmohamad
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
@@ -63,39 +63,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
-  avatar : "/assets/images/mcdermott400sq-s.jpg"
-  bio    : 
-    Assistant Prof. at the University of Oregon. 
-    Interested in environmental economics & data science.
+  name   : "Tony Pourmohamad"
+  avatar : "/assets/images/me.jpeg"
+  bio    : Principal Statistical Scientist at Genentech & Assistant Adjunct Professor at UCSC
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:grantmcd@uoregon.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "mailto:tpourmoh@ucsc.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/tpourmohamad"
     - label: "Scholar"
       icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
+      url: "https://scholar.google.com/citations?hl=en&user=YUhKdoIAAAAJ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tony-pourmohamad-3a41021b/"
       
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: https://github.com/tpourmohamad
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=YUhKdoIAAAAJ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tony-pourmohamad-3a41021b/"
 
 defaults:
   # _posts
@@ -126,18 +121,18 @@ og_image: /assets/images/default-thumb.png
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-76482472-1"
-    anonymize_ip: false # default
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "UA-76482472-1"
+#    anonymize_ip: false # default
 
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
 comments:
   provider: "disqus"
   disqus:
-    shortname: "grantmcdermott-blog"
+    shortname: "tpourmohamad-blog"
 
 category_archive:
   type: liquid
