@@ -6,6 +6,7 @@ header:
 ---
 
 ## Books
+- **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link]([http://clincancerres.aacrjournals.org/content/early/2019/02/15/1078-0432.CCR-18-2740.abstract?casa_token=LiE4CMwwEMgAAAAA:9klg5HYecBTePpF8btXVJyJjbdTcHV8aNahPBx_muABv9C9mBJETT6Zm7AFeZ2LdQGg3px39GhxJXLhN0A](https://link.springer.com/book/10.1007/978-3-030-82458-7))]
 
 ## Journal Articles
 
