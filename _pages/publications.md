@@ -5,7 +5,9 @@ header:
   image: /assets/images/moro-crop2.jpg
 ---
 
-## Publications and Technical Reports
+## Books
+
+## Journal Articles
 
 - **Bayesian Optimization via Barrier Functions** T. Pourmohamad and H.K.H. Lee. Submitted. [[link](https://www.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-SOE-20-02.pdf)]
 
