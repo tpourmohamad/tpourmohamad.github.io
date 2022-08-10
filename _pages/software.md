@@ -2,7 +2,7 @@
 title: Software
 permalink: /software/
 header:
-  image: /assets/images/redwoods.jpg
+  image: /assets/images/railroad.jpg
 ---
 
 Here are some R packages that I have written or am currently developing:
