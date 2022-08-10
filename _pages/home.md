@@ -11,9 +11,10 @@ I am a Principal Statistical Scientist in the department of Data Science and Sta
 
 Additonally, I have joined the Statistics department at the University of California, Santa Cruz as an Assistant Adjunct Professor. 
 
-My research interests include:
+Broadly speaking, my research interests include:
 - Bayesian statistics
 - Bayesian optimization
 - modeling of computer experiments
 - nonclinical biostatistics
 
+Please feel free to contact me if you have questions or would like to inquire about potential academic collaborations.
