@@ -4,6 +4,7 @@ permalink: /publications/
 header:
   image: /assets/images/moro-crop2.jpg
 ---
+To learn more about my research interests and the types of projects I have worked on, please see the following list of publications that I have been a part of. 
 
 ## Books
 - **Case Studies in Bayesian Methods for CMC Applications** P. Faya and T. Pourmohamad. To appear in CRC Press.
