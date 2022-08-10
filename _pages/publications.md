@@ -11,6 +11,10 @@ header:
 
 ## Journal Articles
 
+- **Gaussian Process Modeling for Dissolution Curve Comparisons** (2022). T. Pourmohamad, C. M. Oliva Avilés, and R. Richardson. *The Journal of the Royal Statistical Society, Series C*. (71)2:331-351. [[link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12535)]
+
+- **** (2022).
+- **First-In-Human Phase I Study of the OX40 Agonist MOXR0916 in Patients with Advanced Solid Tumors.** (2022). T.W. Kim, H.A. Burris, M.J. de Miguel Luken, M.J. Pishvaian, Y. Bang, M. Gordon, A. Awada, D.R. Camidge, F.S. Hodi, G.A. McArthur, W.H. Miller, A. Cervantes, L.Q. Chow, A.M. Lesokhin, A. Rutten, M. Sznol, D. Rishipathak, S. Chen, E. Stefanich, T. Pourmohamad, M. Anderson, J. Kim, M. Huseni, I. Rhee, L.L Siu. *Clinical Cancer Research*. [[link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-21-4020/706911/First-In-Human-Phase-I-Study-of-the-OX40-Agonist)]
 - **Bayesian Optimization via Barrier Functions** (2022). T. Pourmohamad and H.K.H Lee. *Journal of Computational and Graphical Statistics*. 31(1):74-83. [[link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1935270?journalCode=ucgs20)]
 - **CompModels: A Suite of Computer Model Test Functions for Bayesian Optimization** (2021). T. Pourmohamad. *The R Journal*. (13)2:441-449. [[link](https://journal.r-project.org/archive/2021/RJ-2021-076/)]
 - **Validating Container Closure Integrity with Statistically Based Tests** (2021). D. Coleman, T.Pourmohamad, Y. Webb Vargas, and M. Mossman. *PDA Journal of Pharmaceutical Science and Technology*. (75)6:465-473. [[link](https://journal.pda.org/content/75/6/465)]
