@@ -17,4 +17,4 @@ Broadly speaking, my research interests include:
 - modeling of computer experiments
 - nonclinical biostatistics
 
-Please feel free to contact me if you have questions or would like to inquire about potential academic collaborations.
+Please feel free to contact me if you have any questions or would like to inquire about potential academic collaborations.
