@@ -14,4 +14,3 @@ Additonally, I have joined the Statistics department at the University of Califo
 - Bayesian optimization
 - modeling of computer experiments
 - nonclinical biostatistics
-- data visualization
