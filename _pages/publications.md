@@ -5,7 +5,7 @@ header:
   image: /assets/images/moro-crop2.jpg
 ---
 To learn more about my research interests and the types of projects I have worked on, please see the following list of publications that I have been a part of. 
-
+🟦 __Tip__ 🟦
 ## Books
 - **Case Studies in Bayesian Methods for CMC Applications** P. Faya and T. Pourmohamad. To appear in CRC Press.
 - **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link](https://link.springer.com/book/10.1007/978-3-030-82458-7)]
