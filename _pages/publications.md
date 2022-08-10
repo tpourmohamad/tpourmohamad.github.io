@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 header:
-  image: /assets/images/moro-crop2.jpg
+  image: /assets/images/lighthouse.jpg
 ---
 To learn more about my research interests and the types of projects I have worked on, please see the following list of publications that I have been a part of. 
 
