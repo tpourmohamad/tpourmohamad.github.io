@@ -8,5 +8,5 @@ header:
 Here are some R packages that I have written or am currently developing:
 
 - [**CompModels**](https://cran.r-project.org/web/packages/CompModels/index.html): Pseudo Computer Models for Optimization.
-- [**BayesDissolution**](): *Coming soon*  <img src='assets/images/logo.png' align="right" height="120" />
+- [**BayesDissolution**](): *Coming soon*  <img src='/assets/images/bayesdissolution.png' align="right" height="120" />
 
