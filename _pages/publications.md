@@ -12,6 +12,7 @@ To learn more about my research interests and the types of projects I have worke
 
 ## Journal Articles
 
+- **Statistical Considerations for Design and Analysis of Stability, Comparability and Formulation Tests** (2022). D. Coleman and T. Pourmohamad. *Pharmaceutical Statistics*. Accepted. 
 - **Sequential Bayes Factors for Sample Size Reduction in Preclinical Experiments with Binary Outcomes** (2022). T. Pourmohamad and C. Wang. *Statistics in Biopharmaceutical Research*. [[link](https://www.tandfonline.com/doi/abs/10.1080/19466315.2022.2123386)]  
 - **Gaussian Process Modeling for Dissolution Curve Comparisons** (2022). T. Pourmohamad, C. M. Oliva Avilés, and R. Richardson. *The Journal of the Royal Statistical Society, Series C*. (71)2:331-351. [[link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12535)] 
 - **Continuous method validation: beyond one-time studies to characterize analytical methods** (2022). P. Faya, S. Novick, J.W. Seaman Jr., J.J. Peterson, T. Pourmohamad, D. Banton, and Y. Zheng. *Statistics in Biopharmaceutical Research*. [[link](https://www.tandfonline.com/doi/abs/10.1080/19466315.2022.2036637)] 
