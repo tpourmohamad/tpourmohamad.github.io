@@ -59,5 +59,8 @@ K.J. Henderson, S.D. Schrum, M. James, N. Quinnine, A. Bharatha, K.G. Terbrugge,
 Supplementary Grading System** (2012).
 A. Rodriguez-Hernandez, H. Kim, T. Pourmohamad, W.L. Young, and M.T. Lawton. *Neurosurgery*. 71(6):1111-24 [[link](https://www.ncbi.nlm.nih.gov/pubmed/22986595)]
 
+## Book Chapters
+- **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
+
 ## Reviews
 - **Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences** (2021). T. Pourmohamad. *Technometrics*. (62)3:303-312. [[link](https://www.tandfonline.com/doi/full/10.1080/00401706.2020.1865008)] 
