@@ -11,7 +11,7 @@ To learn more about my research interests and the types of projects I have worke
 - **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link](https://link.springer.com/book/10.1007/978-3-030-82458-7)] 
 
 ## Book Chapters
-- **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
+- **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. Chapman and Hall/CRC. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
 
 ## Journal Articles
 
