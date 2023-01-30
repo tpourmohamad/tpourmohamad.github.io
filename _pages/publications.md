@@ -15,7 +15,7 @@ To learn more about my research interests and the types of projects I have worke
 
 ## Journal Articles
 
-- **Statistical Modeling Approaches for the Comparison of Dissolution Profiles** (2022). T. Pourmohamad and H.K.T. Ng. *Pharmaceutical Statistics*. To appear.
+- **Statistical Modeling Approaches for the Comparison of Dissolution Profiles** (2022). T. Pourmohamad and H.K.T. Ng. *Pharmaceutical Statistics*. [[link](https://onlinelibrary.wiley.com/doi/10.1002/pst.2274)]
 - **Statistical Considerations for Design and Analysis of Stability, Comparability and Formulation Tests** (2022). D. Coleman and T. Pourmohamad. *Pharmaceutical Statistics*. [[link](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2269)] 
 - **Sequential Bayes Factors for Sample Size Reduction in Preclinical Experiments with Binary Outcomes** (2022). T. Pourmohamad and C. Wang. *Statistics in Biopharmaceutical Research*. [[link](https://www.tandfonline.com/doi/abs/10.1080/19466315.2022.2123386)]  
 - **Gaussian Process Modeling for Dissolution Curve Comparisons** (2022). T. Pourmohamad, C. M. Oliva Avilés, and R. Richardson. *The Journal of the Royal Statistical Society, Series C*. (71)2:331-351. [[link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12535)] 
