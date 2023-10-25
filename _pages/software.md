@@ -11,5 +11,5 @@ Here are some R packages that I have written or am currently developing:
 - [**BayesDissolution**](https://cran.r-project.org/web/packages/BayesDissolution/index.html): Bayesian Models for Dissolution Testing
 - [**bmet**](): Bayesian Multigroup Equivalance Testing (coming soon)
 
-  <img src='/assets/images/hexwall2.png' height="240" />
+  <img src='/assets/images/chronohexwall.png' height="240" />
 
