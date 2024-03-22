@@ -15,6 +15,6 @@ Broadly speaking, my research interests include:
 - Bayesian statistics
 - Bayesian optimization
 - modeling of computer experiments
-- nonclinical biostatistics
+- clinical and nonclinical biostatistics
 
 Please feel free to contact me if you have any questions or would like to inquire about potential academic collaborations.
