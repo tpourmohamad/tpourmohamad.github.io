@@ -66,5 +66,5 @@ Supplementary Grading System** (2012).
 A. Rodriguez-Hernandez, H. Kim, T. Pourmohamad, W.L. Young, and M.T. Lawton. *Neurosurgery*. 71(6):1111-24 [[link](https://www.ncbi.nlm.nih.gov/pubmed/22986595)]
 
 ## Other
-- **A Call for Regulatory Guidance on Bayesian Methods in the Statistical Support of CMC Development Studies** (2024). S. Altan, P. Faya, J. Kim, D. LeBlond, S. Novick, T. Pourmohamad, and C. Thompson. *Biopharmaceutical Report*. (31)1:29-38. [[link]([https://www.tandfonline.com/doi/full/10.1080/00401706.2020.1865008](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_Spring24_4.pdf))] 
+- **A Call for Regulatory Guidance on Bayesian Methods in the Statistical Support of CMC Development Studies** (2024). S. Altan, P. Faya, J. Kim, D. LeBlond, S. Novick, T. Pourmohamad, and C. Thompson. *Biopharmaceutical Report*. (31)1:29-38. [[link](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fa4dd52c-8429-41d0-abdf-0011047bfa19/UploadedImages/BIOP%20Report/BioPharm_Spring24_4.pdf)] 
 - **Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences** (2021). T. Pourmohamad. *Technometrics*. (62)3:303-312. [[link](https://www.tandfonline.com/doi/full/10.1080/00401706.2020.1865008)] 
