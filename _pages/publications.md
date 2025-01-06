@@ -14,7 +14,7 @@ To learn more about my research interests and the types of projects I have worke
 - **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. Chapman and Hall/CRC. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
 
 ## Journal Articles
-- **Bioanalytical Method Comparison Strategy for Clinical Anti-drug Antibody Immunoassays** (2024). R. Elliot, T. Pourmohamad, Y. Webb Vargas, W. Yan, I. Nijem, P. Siguenza, and Y. Song. Accepted to *The AAPS Journal*. 
+- **Bioanalytical Method Comparison Strategy for Clinical Anti-drug Antibody Immunoassays** (2024). R. Elliot, T. Pourmohamad, Y. Webb Vargas, W. Yan, I. Nijem, P. Siguenza, and Y. Song. *The AAPS Journal*.  27(1):1-19. [[link](https://link.springer.com/article/10.1208/s12248-024-00999-3)] 
 - **A Proof-of-concept Rat Toxicity Study Highlights the Potential Utility and Challenges of Virtual Control Groups** (2024). R. Andaya, R. Sullivan, T. Pourmohamad, M. Hayes, P. Maliver, S. Laing, C. Hasselgren, N. Dybdal, A.O. Adedeji, and L.T. Anger. *ALTEX - Alternatives to animal experimentation*. 41(4):647-659. [[link](https://doi.org/10.14573/altex.2404201)]
 - **Equivalence Testing for Multiple Groups** (2024). T. Pourmohamad and H.K.H Lee. *Stat*. 13(1):e645 [[link](https://doi.org/10.1002/sta4.645)]
 - **Automated Online Deconjugation of Antibody-Drug Conjugate for Small Molecule Drug Profiling** (2023). R. Thomas, D. Song, T. Pourmohamad, K. Kurita, S. Chin, L. Dai, A. Goyon, C.D. Medley, J.A. Gruenhagen, T. Chen. *Journal of Chromatography A*. [[link](https://doi.org/10.1016/j.chroma.2023.464575)]
