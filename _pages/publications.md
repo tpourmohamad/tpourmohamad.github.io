@@ -11,6 +11,7 @@ To learn more about my research interests and the types of projects I have worke
 - **Bayesian Optimization with Application to Computer Experiments** (2021). T. Pourmohamad and H.K.H Lee. Springer Cham. [[link](https://link.springer.com/book/10.1007/978-3-030-82458-7)] 
 
 ## Book Chapters
+- **Gaussian Processes** (2025). H.K.H. Lee and T. Pourmohamad. In *International Encyclopedia of Statistical Science, Second Edition*. Springer. 1020-1023. [[link](https://doi.org/10.1007/978-3-662-69359-9_246)] 
 - **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. Chapman and Hall/CRC. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
 
 ## Journal Articles
