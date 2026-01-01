@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Tony Pourmohamad"
   avatar : "/assets/images/me.jpeg"
-  bio    : Principal Statistical Scientist at Genentech & Assistant Adjunct Professor at UCSC
+  bio    : Associate Director at Abbvie & Assistant Adjunct Professor at UCSC
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
