@@ -7,10 +7,11 @@ header:
   image: /assets/images/beach.jpg
 ---
 
-I am a Principal Statistical Scientist in the department of Data and Statistical Sciences at Genentech. Prior to joining Genentech, I received my Ph.D. from the department of Statistics and Applied Mathematics at the University of California, Santa Cruz where my research focused on constrained optimization for computer experiments. Nowadays, I spend most of my time at the intersection of clinical and nonclinical statistics here at Genentech.
+I am an Associate Director in Exploratory Statistics at AbbVie.
 
-Additonally, I have joined the Statistics department at the University of California, Santa Cruz as an Assistant Adjunct Professor. 
+Previously, I was a Principal Statistical Scientist in the Department of Data and Statistical Sciences at Genentech. I received my Ph.D. from the Department of Statistics and Applied Mathematics at the University of California, Santa Cruz, where my doctoral research focused on constrained optimization for computer experiments.
 
+In addition to my industry role, I am an Assistant Adjunct Professor in the Statistics Department at the University of California, Santa Cruz.
 Broadly speaking, my research interests include:
 - Bayesian statistics
 - Bayesian optimization
