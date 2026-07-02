@@ -15,6 +15,7 @@ To learn more about my research interests and the types of projects I have worke
 - **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. Chapman and Hall/CRC. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
 
 ## Journal Articles
+- **Calibrated Bayesian Nonparametric Tolerance Intervals** (2026). T. Pourmohamad, R. Richardson, and B. Sansó. *Technometrics*. [[link](https://www.tandfonline.com/doi/full/10.1080/00401706.2026.2699103)] 
 - **Comparability Assessment for Changes to Manufacturing Processes: Industry Recommendations on Bayesian Practices** (2026). J. Kim, S. Altan, D. Banton, T. Eilert, P. Faya, G. Hui, T. Pourmohamad, J. Reynolds, R. Sanchez, C. Thompson, Y. Zheng, and S. Novick. *Statistics in Biopharmaceutical Research*. [[link](https://doi.org/10.1080/19466315.2026.2677711)] 
 - **Sample size reduction in preclinical experiments: A Bayesian sequential decision-making framework** (2025). J. Kang, T. Koulis, and T. Pourmohamad. *Journal of Biopharmaceutical Statistics*. [[link](https://doi.org/10.1080/10543406.2025.2556680)] 
 - **Bioanalytical Method Comparison Strategy for Clinical Anti-drug Antibody Immunoassays** (2024). R. Elliot, T. Pourmohamad, Y. Webb Vargas, W. Yan, I. Nijem, P. Siguenza, and Y. Song. *The AAPS Journal*.  27(1):1-19. [[link](https://link.springer.com/article/10.1208/s12248-024-00999-3)] 
