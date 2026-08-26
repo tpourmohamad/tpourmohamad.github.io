@@ -15,6 +15,7 @@ To learn more about my research interests and the types of projects I have worke
 - **Bayesian Dissolution Testing** (2022). T. Pourmohamad and R. Richardson. In *Case Studies in Bayesian Methods for Biopharmaceutical CMC*. Chapman and Hall/CRC. 57-84. [[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003255093-5/bayesian-dissolution-testing-tony-pourmohamad-robert-richardson)] 
 
 ## Journal Articles
+- **A Multiparametric In Vitro Strategy for Small Molecule Drug-Induced Liver Injury Risk Mitigation in Early Drug Development** (2026). L.M. Norona, F. Meinkov, T. Kiyota, C. Lawson, C. Khojasteh, J. Liu, K. Johnson, T. Pourmohamad, L.T. Anger, W.R. Proctor and A.M. Fullerton.  Accepted to *Toxicological Sciences*.
 - **Calibrated Bayesian Nonparametric Tolerance Intervals** (2026). T. Pourmohamad, R. Richardson, and B. Sansó. *Technometrics*. [[link](https://www.tandfonline.com/doi/full/10.1080/00401706.2026.2699103)] 
 - **Comparability Assessment for Changes to Manufacturing Processes: Industry Recommendations on Bayesian Practices** (2026). J. Kim, S. Altan, D. Banton, T. Eilert, P. Faya, G. Hui, T. Pourmohamad, J. Reynolds, R. Sanchez, C. Thompson, Y. Zheng, and S. Novick. *Statistics in Biopharmaceutical Research*. [[link](https://doi.org/10.1080/19466315.2026.2677711)] 
 - **Sample size reduction in preclinical experiments: A Bayesian sequential decision-making framework** (2025). J. Kang, T. Koulis, and T. Pourmohamad. *Journal of Biopharmaceutical Statistics*. [[link](https://doi.org/10.1080/10543406.2025.2556680)] 
